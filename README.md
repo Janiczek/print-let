@@ -34,4 +34,3 @@ becomes:
       z (str y y)
       _ (println "z:" z)]
   z)
-```
